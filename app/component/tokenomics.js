@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import token from "../asset/token.png";
+import supply from "../asset/supply.png";
 export default function Tokenomics() {
   return (
     <div>
@@ -10,7 +11,7 @@ export default function Tokenomics() {
           <Image src={token} alt="hero" width={250} height={250} />
         </div>
         <div className="w-1/2">
-          <Image src={token} alt="hero" width={250} height={250} />
+          <Image src={supply} alt="hero" width={250} height={250} />
         </div>
       </div>
 
