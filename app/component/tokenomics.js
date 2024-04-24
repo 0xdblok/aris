@@ -7,10 +7,10 @@ export default function Tokenomics() {
     <div>
       <h1 className="text-center text-3xl  pt-20">Tokenomics</h1>
       <div className="flex pt-4 divide-x-2   divide-black justify-center gap-6 px-4 items-center  ">
-        <div className="w-1/2">
+        <div className="w-1/2 md:flex md:justify-center">
           <Image src={token} alt="hero" width={250} height={250} />
         </div>
-        <div className="w-1/2">
+        <div className="w-1/2  md:flex md:justify-center">
           <Image src={supply} alt="hero" width={250} height={250} />
         </div>
       </div>

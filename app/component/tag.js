@@ -32,36 +32,6 @@ export default function Tag() {
         <button class="px-2 py-1 rounded bg-gray-200/50 text-gray-700 hover:bg-gray-300">
           Technology
         </button>
-        <button class="px-2 py-1 rounded bg-gray-200/50 text-gray-700 hover:bg-gray-300">
-          Photography
-        </button>
-        <button class="px-2 py-1 rounded bg-gray-200/50 text-gray-700 hover:bg-gray-300">
-          Sports
-        </button>
-        <button class="px-2 py-1 rounded bg-gray-200/50 text-gray-700 hover:bg-gray-300">
-          Fashion
-        </button>
-        <button class="px-2 py-1 rounded bg-gray-200/50 text-gray-700 hover:bg-gray-300">
-          History
-        </button>
-        <button class="px-2 py-1 rounded bg-gray-200/50 text-gray-700 hover:bg-gray-300">
-          Nature
-        </button>
-        <button class="px-2 py-1 rounded bg-gray-200/50 text-gray-700 hover:bg-gray-300">
-          Health
-        </button>
-        <button class="px-2 py-1 rounded bg-gray-200/50 text-gray-700 hover:bg-gray-300">
-          Nurition
-        </button>
-        <button class="px-2 py-1 rounded bg-gray-200/50 text-gray-700 hover:bg-gray-300">
-          Education
-        </button>
-        <button class="px-2 py-1 rounded bg-gray-200/50 text-gray-700 hover:bg-gray-300">
-          Fitness
-        </button>
-        <button class="px-2 py-1 rounded bg-gray-200/50 text-gray-700 hover:bg-gray-300">
-          Business
-        </button>
       </div>
     </div>
   );
