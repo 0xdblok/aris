@@ -4,7 +4,7 @@ export default function Step() {
   return (
     <div class="p-4 max-w-xl mx-6 pt-20  md:mx-auto  border-4 border-black rounded-xl">
       <h2 class="font-heading dark:text-gray-100 mb-8 text-3xl font-bold lg:text-4xl">
-        Sed ac magna sit amet risus tristique interdum. hac.
+        STEP ARISTOTE
       </h2>
 
       <div class="flex">
@@ -32,12 +32,7 @@ export default function Step() {
           <p class="mb-2 text-xl font-bold text-gray-900 dark:text-slate-300">
             Step 1
           </p>
-          <p class="text-gray-600 dark:text-slate-400">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
-            sagittis, quam nec venenatis lobortis, mirisus tempus nulla, sed
-            porttitor est nibh at nulla. Praesent placerat enim ut ex tincidunt
-            vehicula. Fusce sit amet dui tellus.
-          </p>
+          <p class="text-gray-600 dark:text-slate-400">Fairlaunch</p>
         </div>
       </div>
 
@@ -57,9 +52,7 @@ export default function Step() {
             Step 2
           </p>
           <p class="text-gray-600 dark:text-slate-400">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
-            sagittis, quam nec venenatis lobortis, mirisus tempus nulla, sed
-            porttitor est nibh at nulla.
+            Strategical Partnership and Reward community holder
           </p>
         </div>
       </div>
@@ -80,9 +73,7 @@ export default function Step() {
             Step 3
           </p>
           <p class="text-gray-600 dark:text-slate-400">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
-            sagittis, quam nec venenatis lobortis, mirisus tempus nulla, sed
-            porttitor est nibh at nulla.
+            Coingecko and CeX listing
           </p>
         </div>
       </div>
@@ -99,7 +90,7 @@ export default function Step() {
         </div>
         <div class="pt-1 ">
           <p class="mb-2 text-xl font-bold text-gray-900 dark:text-slate-300">
-            Ready!
+            Ride wave
           </p>
         </div>
       </div>
